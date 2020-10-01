@@ -9,7 +9,7 @@ const hashLi = [
 ];
 const makeLi = [];
 hashLi.forEach((result) => {
-  if ( result.url === loadPath[5]) {
+  if ( result.url === loadPath[1]) {
     makeLi.push(`<li class="nav-item active"><a href="${result.url}" class="nav-link nav-letter-color">${result.name}</a></li>`);
   } else {
     makeLi.push(`<li class="nav-item"><a href="${result.url}" class="nav-link nav-letter-color">${result.name}</a></li>`);
