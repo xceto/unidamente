@@ -1,0 +1,29 @@
+{
+  "name": "unidamente",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "nodemailer": "^6.4.12",
+    "npm": "^6.14.8",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xceto/unidamente.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xceto/unidamente/issues"
+  },
+  "homepage": "https://github.com/xceto/unidamente#readme"
+}
