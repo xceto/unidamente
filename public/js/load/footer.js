@@ -7,7 +7,7 @@ const toFooter = {
 };
 
 document.write(`
-<footer class="ftco-footer ftco-bg-dark ftco-section" style="padding-bottom: 0px;">
+<footer class="ftco-footer ftco-bg-dark ftco-section">
 <div class="container">
   <div class="row mb-5">
     <div class="col-md">
