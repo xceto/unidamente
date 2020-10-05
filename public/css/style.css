@@ -4414,8 +4414,8 @@ input[type="button"].btn-block {
   .list-group-item.active {
     z-index: 2;
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff; }
+    background-color: #ff3399;
+    border-color: #ff3399; }
 
 .list-group-flush .list-group-item {
   border-right: 0;
@@ -8484,7 +8484,7 @@ h1, h2, h3, h4, h5,
         border-color: #fff;
         color: #2f89fc; }
   .btn.btn-secondary {
-    background: #ff8000;
+    background: #1b7883;
     border: 1px solid #ff8000;
     color: #fff; }
     .btn.btn-secondary:hover, .btn.btn-secondary:focus, .btn.btn-secondary:active {

@@ -1,8 +1,8 @@
 const loadPath = window.location.pathname.split('/');
 const hashLi = [
     { url: "/", name: "Inicio" },
-    { url: "/quienes-somos", name: "Quienes Somos" },
-    { url: "conocenos", name: "Conocenos" },
+    { url: "quienes-somos", name: "Quienes Somos" },
+    { url: "colabora", name: "Colabora" },
     { url: "nuestro-trabajo", name: "Nuestro Trabajo" },
     { url: "area-de-trabajo", name: "Areas de Trabajo" },
     { url: "contactanos", name: "Contactanos" },
