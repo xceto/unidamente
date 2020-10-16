@@ -2,8 +2,9 @@ const toFooter = {
   blogTittle: 'Noticias recientes',
   dude: '¿Tienes Dudas?',
   fb: 'https://www.facebook.com/FundacionUnidaMenteChile',
-  twitter: '',
-  instagram: ''
+  twitter: 'https://twitter.com/F_UnidaMente',
+  instagram: '',
+  linkedin: 'https://www.linkedin.com/company/fundaci%C3%B3n-unidamente/'
 };
 
 document.write(`
@@ -24,6 +25,8 @@ document.write(`
         <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
           <!-- <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li> -->
           <li class="ftco-animate"><a href="${toFooter.fb}"><span class="icon-facebook"></span></a></li>
+          <li class="ftco-animate"><a href="${toFooter.twitter}"><span class="icon-twitter"></span></a></li>
+          <li class="ftco-animate"><a href="${toFooter.linkedin}"><span class="icon-linkedin"></span></a></li>
           <!-- <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li> -->
         </ul>
       </div>
@@ -33,11 +36,11 @@ document.write(`
         <h2 class="ftco-heading-2">Links</h2>
         <ul class="list-unstyled">
           <li><a href="/"><span class="ion-ios-arrow-round-forward mr-2"></span>Inicio</a></li>
-          <li><a href="/quienes-somos"><span class="ion-ios-arrow-round-forward mr-2"></span>Quienes Somos</a></li>
+          <li><a href="/quienes-somos"><span class="ion-ios-arrow-round-forward mr-2"></span>Quiénes Somos</a></li>
           <li><a href="/colabora"><span class="ion-ios-arrow-round-forward mr-2"></span>Colabora</a></li>
           <li><a href="/nuestro-trabajo"><span class="ion-ios-arrow-round-forward mr-2"></span>Nuestro Trabajo</a></li>
-          <li><a href="/areas-de-trabajo"><span class="ion-ios-arrow-round-forward mr-2"></span>Areas de Trabajo</a></li>
-          <li><a href="/contactanos"><span class="ion-ios-arrow-round-forward mr-2"></span>Contactanos</a></li>
+          <li><a href="/areas-de-trabajo"><span class="ion-ios-arrow-round-forward mr-2"></span>Áreas de Trabajo</a></li>
+          <li><a href="/contactanos"><span class="ion-ios-arrow-round-forward mr-2"></span>Contáctanos</a></li>
         </ul>
       </div>
 
