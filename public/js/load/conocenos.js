@@ -17,7 +17,7 @@ conocenosBody.forEach((result) => {
       <div class="col-md-6 col-lg-3 ftco-animate">
       <div class="staff">
         <div class="img-wrap d-flex align-items-stretch">
-          <div class="img align-self-stretch" style="background-image: url(${result.image});"></div>
+          <div class="img align-self-stretch" data-id="${result.name}"style="background-image: url(${result.image});" data-toggle="modal" data-target="#teamModal" class="img-fluid" data-bigimage="${result.image}"></div>
         </div>
         <div class="text pt-3 text-center">
           <h3>${result.name}</h3>
