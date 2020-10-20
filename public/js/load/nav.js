@@ -22,7 +22,7 @@ document.write(`
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation" style="color: black !important">
     <span class="oi oi-menu"></span> Menu
   </button>
-  <a href="/"><img src="images/logo.png" height="95" class="d-inline-block align-top" alt="" loading="lazy"></a>
+  <a href="/"><img src="images/logo.png" height="95" style="margin-top: 5px; margin-bottom: 5px"class="d-inline-block align-top" alt="" loading="lazy"></a>
   <div class="collapse navbar-collapse order-lg-last mb-0" id="ftco-nav">
     <ul class="navbar-nav ml-auto">
      ${ makeLi.join(' ') }
