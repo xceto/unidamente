@@ -2,13 +2,19 @@ let conocenosBody = [
     { image: "images/woman-default.jpg", name: "Carmen Astargo", profession: "DIRECTORIO </br> ENFERMERA, SALUBRISTA U DE CHILE" },
     { image: "images/woman-default.jpg", name: "Verónica Donoso", profession: "DIRECTORIO </br> PROFESORA MATEMÁTICAS" },
     { image: "images/man-default.jpg", name: "José Miguel Pazols", profession: "PROYECTOS Y FORMACIÓN CONTINUA" },
-    { image: "images/woman-default.jpg", name: "Yassna Maureira", profession: "REFERENTE ÁREA SALUD MENTAL Y EDUCACIÓN" },
+    { image: "images/woman-default.jpg", name: "Yassna Maureira Cruz", profession: "REFERENTE ÁREA SALUD MENTAL Y EDUCACIÓN" },
     { image: "images/man-default.jpg", name: "Francisco Peñaloza", profession: "PS, MG EDUCACIÓN, COACH ONTOLÓGICO DIRECTORIO" },
-    { image: "images/woman-default.jpg", name: "Anita Alegría", profession: "KINE, MG ENVEJECIMIENTO Y CALIDAD DE VIDA, CO FUNDADORA, DIRECTORIO, SALUD MENTAL PERSONAS MAYORES CUIDADORES, CUIDADORAS" },
+    { image: "images/woman-default.jpg", name: "Anita Alegía", profession: "KINE, MG ENVEJECIMIENTO Y CALIDAD DE VIDA, CO FUNDADORA, DIRECTORIO, SALUD MENTAL PERSONAS MAYORES CUIDADORES, CUIDADORAS" },
     { image: "images/woman-default.jpg", name: "Sonia Stevens", profession: "TS, MG SALUD PUBLICA UNIVERSIDAD DE LA REPUBLICA DEL URUGUAY. ENCARGADA ÁREA DE PROYECTOS Y FORMACIÓN CONTINUA" },
-    { image: "images/woman-default.jpg", name: "Andrea Alegría", profession: "TS, MG EN SALUD PÚBLICA, PSICÓLOGA EN FORMACIÓN, MAGISTER EN GÉNERO, IDENTIDADES Y CIUDADANÍA. FACILITADORA DE YOGA Y MEDITACIÓN INFANTIL." },
-    { image: "images/man-default.jpg", name: "Rafael Dresdner", profession: "PS, MG EN PSICOLOGÍA CLÍNICA ADULTOS U DE CHILE, DIPLOMADO EN TERAPIAS NARRATIVAS, ENCARGADO ÁREA TÉCNICA" },
+    { image: "images/woman-default.jpg", name: "Andrea Alegría Del Pino", profession: "TS, MG EN SALUD PÚBLICA, PSICÓLOGA EN FORMACIÓN, MAGISTER EN GÉNERO, IDENTIDADES Y CIUDADANÍA. FACILITADORA DE YOGA Y MEDITACIÓN INFANTIL." },
+    { image: "images/man-default.jpg", name: "Rafael Dresdner Vicencio", profession: "PS, MG EN PSICOLOGÍA CLÍNICA ADULTOS U DE CHILE, DIPLOMADO EN TERAPIAS NARRATIVAS, ENCARGADO ÁREA TÉCNICA" },
     { image: "images/man-default.jpg", name: "Enrique Silva", profession: "COMUNICADOR TERAPEUTA COMPLEMENTARIO. ENCARGADO DE COMUNICACIONES ENCARGADO ÁREA SALUD MENTAL Y TERAPIAS COMPLEMENTARIAS Y ALTERNATIVAS" },
+    { image: "images/woman-default.jpg", name: "Angélica Torres", profession: "" },
+    { image: "images/woman-default.jpg", name: "Carolina Valenzuela", profession: "" },
+    { image: "images/woman-default.jpg", name: "Fernanda Gobantes", profession: "" },
+    { image: "images/woman-default.jpg", name: "María Fernanda Elizama", profession: "" },
+    { image: "images/woman-default.jpg", name: "Nury Villagra", profession: "" },
+    { image: "images/woman-default.jpg", name: "Carla Medina", profession: "" },
 ]
 
 let conocenosBuild = [];
