@@ -4,7 +4,7 @@ const hashPersons = [
   {color:"ff3399", tittle: "Salud Mental, Género, Masculinidades e Identidades", persons: ".."},
   {color:"f8c105", tittle: "Salud Mental, Personas Mayores, Cuidadoras, Cuidadores y Personas en Situación de Dependencia", persons: ".."},
   {color:"1b7883", tittle: "Salud Mental, Terapias Complementarias y Alternativas", persons: ".."},
-  {color:"9dce48", tittle: "Área de Formación Continuan", persons: ".."},
+  {color:"9dce48", tittle: "Área de Formación Contínua", persons: ".."},
   {color:"ff3399", tittle: "Área Técnica", persons: ".."},
   {color:"f8c105", tittle: "Comunicaciones", persons: ".."},
 ];
