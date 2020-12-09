@@ -1,6 +1,6 @@
 let conocenosBody = [
     { image: "images/equipo/a_alegría_dp.jpg", name: "Andrea Alegría Del Pino", profession: "TS, MG EN SALUD PÚBLICA, PSICÓLOGA EN FORMACIÓN, MAGISTER EN GÉNERO, IDENTIDADES Y CIUDADANÍA. FACILITADORA DE YOGA Y MEDITACIÓN INFANTIL." },
-    { image: "images/equipo/a_alegría.jpg", name: "Anita Alegía", profession: "KINE, MG ENVEJECIMIENTO Y CALIDAD DE VIDA, CO FUNDADORA, DIRECTORIO, SALUD MENTAL PERSONAS MAYORES CUIDADORES, CUIDADORAS" },
+    { image: "images/equipo/a_alegría.jpg", name: "Anita Alegría", profession: "KINE, MG ENVEJECIMIENTO Y CALIDAD DE VIDA, CO FUNDADORA, DIRECTORIO, SALUD MENTAL PERSONAS MAYORES CUIDADORES, CUIDADORAS" },
     { image: "images/equipo/e_silva.jpg", name: "Enrique Silva", profession: "COMUNICADOR TERAPEUTA COMPLEMENTARIO. ENCARGADO DE COMUNICACIONES ENCARGADO ÁREA SALUD MENTAL Y TERAPIAS COMPLEMENTARIAS Y ALTERNATIVAS" },
     { image: "images/equipo/r_dresdner.jpeg", name: "Rafael Dresdner Vicencio", profession: "PS, MG EN PSICOLOGÍA CLÍNICA ADULTOS U DE CHILE, DIPLOMADO EN TERAPIAS NARRATIVAS, ENCARGADO ÁREA TÉCNICA" },
     { image: "images/equipo/s_stevens.jpg", name: "Sonia Stevens", profession: "TS, MG SALUD PUBLICA UNIVERSIDAD DE LA REPUBLICA DEL URUGUAY. ENCARGADA ÁREA DE PROYECTOS Y FORMACIÓN CONTINUA" },
